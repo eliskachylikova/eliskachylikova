@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤍 My name is Eliška and I am currently finishing my Bachelor's degree in IT at MENDELU
+- 🤍 My name is Eliška and I've just finished my Bachelor's degree in IT at MENDELU
 - 👩‍💻 I mainly focus on back-end development in Java and Kotlin
 - 🚀 but I'm also open to any new opportunities to learn new technologies!
 
