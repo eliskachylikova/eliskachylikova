@@ -1,11 +1,12 @@
 ### Hi there 👋
-- 🤍 My name is Eliška and I've just finished my Bachelor's degree in IT at MENDELU
-- 👩‍💻 I mainly focus on back-end development in Java and Kotlin
-- 🚀 but I'm also open to any new opportunities to learn new technologies!
+- 🤍 My name is Eliška and I am in the final year of my Master's degree in IT at MENDELU
+- 👩‍💻 I'm currently working on several interesting projects as a full-stack developer and product owner 
+- 🚀 I'm also open to any new opportunities to learn new technologies!
 
 ---------------
 
-➡ If you use *Keycloak*, check out extensions that I created as a part of my Bachelor thesis: [keycloak-extensions](https://github.com/eliskachylikova/keycloak-extensions).
+➡ If you use open source identity management tool **Keycloak**, check out extensions that I created as a part of my Bachelor thesis: [keycloak-extensions](https://github.com/eliskachylikova/keycloak-extensions), you can now find them also in [Awesome Keycloak GitHub](https://github.com/thomasdarimont/awesome-keycloak)
+
 <!--
 **eliskachylikova/eliskachylikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
