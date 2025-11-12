@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👩‍💻 Fullstack developer at Citymind
 - 🎓 PhD student of informatics at MENDELU
-- 🚀 My focus are web technologies and AR/VR
+- 🚀 Focusing on web technologies and AR/VR
 
 ---------------
 
