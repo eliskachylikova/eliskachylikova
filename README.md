@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🤍 My name is Eliška and I am in the final year of my Master's degree in IT at MENDELU
-- 👩‍💻 I'm currently working on several interesting projects as a full-stack developer and product owner 
-- 🚀 I'm also open to any new opportunities to learn new technologies!
+- 👩‍💻 Fullstack developer at Citymind
+- 🎓 PhD student of informatics at MENDELU
+- 🚀 My focus are web technologies and AR/VR
 
 ---------------
 
